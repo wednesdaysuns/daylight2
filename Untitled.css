@@ -1,4 +1,4 @@
-.daythread-a { display: flex; justify-content: center; align-items: center; width: 350px; height: 200px; background:rgba(var(--accentr),.3); }
+.daythread-a { display: flex; justify-content: center; align-items: center; width: 350px; height: 200px; background:rgba(var(--accentrgb), .4); }
 
 .daythread-i { width: 250px; height: 100px; border: 5px solid; border-color: white; }
 
@@ -10,4 +10,4 @@
 
 .daythread-ct { padding: 20px; text-align: justify; margin: 5px; text-transform: none; }
 
-.daythread-t { display: flex; justify-content: center; align-items: center; text-align: center; background:rgba(var(--accentr),.3); width: 350px; height: 50px; text-transform: lowercase; }
+.daythread-t { display: flex; justify-content: center; align-items: center; text-align: center; background:rgba(var(--accent), .1); width: 350px; height: 50px; text-transform: lowercase; }
