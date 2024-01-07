@@ -1,0 +1,13 @@
+.daythread-a { display: flex; justify-content: center; align-items: center; width: 350px; height: 200px; background:rgba(var(--accentr),.3); }
+
+.daythread-i { width: 250px; height: 100px; border: 5px solid; border-color: white; }
+
+.daythread-i img { width: 250px; height: 100px; object-fit: cover; }
+
+.daythreadb { display: grid; grid-template-columns: auto; grid-template-rows: auto; width: 350px; height: 100%; background: var(--lighter); padding-top: 10px; padding-bottom: 10px; }
+
+.daythreadc { grid-row: 2; grid-column: 2; width: 300px; display: flex; justify-content: center; align-items: flex-start; background:var(--bg);  }
+
+.daythread-ct { padding: 20px; text-align: justify; margin: 5px; text-transform: none; }
+
+.daythread-t { display: flex; justify-content: center; align-items: center; text-align: center; background:rgba(var(--accentr),.3); width: 350px; height: 50px; text-transform: lowercase; }
